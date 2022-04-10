@@ -121,7 +121,7 @@ body {
 .header__menu-link:focus,
 .header__contacts-link:focus {
     color: #fff;
-    background-color: #2196F3;
+    color: #2196F3;
     outline-color: #2196F3;
 }
 
@@ -405,7 +405,7 @@ body {
 
 .footer__link:focus {
     color: #FFFFFF;
-    background-color: #2196F3;
+    color: #2196F3;
     outline-color:#2196F3;
 }
 
@@ -465,11 +465,9 @@ body {
     border: 1px solid #EEEEEE;
     margin-bottom: 30px;
 }
-.portfolio__content-img {
-    margin-bottom: 20px;
-}
+
 .portfolio__content-descr {
-    margin: 20px 24px;
+    padding: 20px 24px;
     
 }
 .portfolio__content-title {
